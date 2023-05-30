@@ -11,3 +11,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
 </div>
+
+<div>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanal&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" />
+</div>
