@@ -1,6 +1,5 @@
    # hi there! 
-   ## um pouco sobre mim:
-
+ 
   - 🌱 atualmente aprendendo sobre banco de dados (PostgresSQL) e Java
   - 📱 interesse em desenvolvimento de sistemas, web e mobile
 
