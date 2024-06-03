@@ -22,4 +22,3 @@ I'm Marina, a 17 years old who lives in Brazil and loves to learn.
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-de-abreu-canal-ab0800234/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ma.canal/)
-
