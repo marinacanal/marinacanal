@@ -1,6 +1,8 @@
-# Hi, there! 
-
-I'm Marina, a 17 years old who lives in Brazil and loves to learn.
+<h1 align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=80&color=A119FF&vCenter=true&width=270&height=70&lines=Hi+there!+👋+;I'm+Marina+Canal" alt="Typing SVG" />
+  </a>
+</h1>
 
 ## Hard Skills
 
@@ -15,9 +17,15 @@ I'm Marina, a 17 years old who lives in Brazil and loves to learn.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
+## 
+<br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marinacanal&layout=compact&bg_color=000&border_color=fff&title_color=E94D5F&text_color=FFF)
+<div align=center>
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marinacanal&show_icons=true&count_private=true&border_radius=20&theme=midnight-purple" alt="github stats" />  
+  <img width="34%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marinacanal&layout=compact&border_radius=20&theme=midnight-purple" />
+</div>
+
+## 
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-de-abreu-canal-ab0800234/)
