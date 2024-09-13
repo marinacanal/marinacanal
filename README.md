@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 
-<br>
+<br> 
 
 <div align=center>
   <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marinacanal&show_icons=true&count_private=true&border_radius=20&theme=midnight-purple" alt="github stats" />  
